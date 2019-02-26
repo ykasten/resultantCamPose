@@ -11,7 +11,7 @@ Licensed for noncommercial research use only.
 
 ## Background
 
-This code retrieve camera pose given 2D correspondences to images with known camera poses.
+This code retrievesa camera pose of an image given 2D correspondences from images with known camera poses.
 
 For more information see:
 ```
@@ -31,7 +31,7 @@ Please cite these paper if you use this code in an academic publication.
 
 mex/C++ code:
 In order to use the code it is necessary to compile the mex functions.
-We supply compiled version for Windows and Linux.
+We supply compiled versions for Windows and Linux.
 For compilation, run compileMex.m for compiling ResultantExtractor and extractLinearEquationsT.
 Note that the compilation time is long.
 
