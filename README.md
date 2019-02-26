@@ -11,7 +11,7 @@ Licensed for noncommercial research use only.
 
 ## Background
 
-This code retrievesa camera pose of an image given 2D correspondences from images with known camera poses.
+This code retrieves a camera pose given 2D correspondences from images with known camera poses.
 
 For more information see:
 ```
